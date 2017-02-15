@@ -4,7 +4,7 @@ draw2d.shape.node.vqfxRe = draw2d.shape.node.wistarSetParent.extend({
     MANAGEMENT_INTERFACE_PREFIX: "em",
     MANAGEMENT_INTERFACE_INDEX: 0,
     MANAGEMENT_INTERFACE_TYPE: "e1000",
-    INTERFACE_TYPE: "e1000",
+    INTERFACE_TYPE: "virtio",
     DOMAIN_CONFIGURATION_FILE: "junos_vqfx.xml",
     ICON_WIDTH: 50,
     ICON_HEIGHT: 10,
